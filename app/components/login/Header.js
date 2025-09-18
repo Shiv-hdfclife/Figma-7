@@ -6,8 +6,8 @@ export default function Header() {
     return (
         <div className="">
             <Image src={Logo} alt="logo" width={58} height={38} className="ml-2" />
-            
-            <div className="flex flex-row justify-between items-center mt-[65px]   h-[140px]">
+
+            <div className="flex flex-row justify-between items-center mt-[40px] h-[140px]" >
                 {/* Left: vertically centered text */}
                 <div className="w-[65%] flex items-center">
                     <p className="text-center m-0">
